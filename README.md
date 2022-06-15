@@ -55,6 +55,6 @@
 <h2 align="center">  :newspaper: PROJECT :newspaper:</h2>
 <p align="center">
 
-<a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master">jsp : 부르마블</a><br>
+<a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master">jsp : 부루마블</a><br>
 
 </p>

@@ -20,7 +20,7 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJiUng&show_icons=true&theme=tokyonight)
 
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyu05017&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimJiUng&layout=compact&theme=tokyonight)
 </p>
 
 <h2 align="center">  :hammer: TECH STACK  :hammer: </h2>

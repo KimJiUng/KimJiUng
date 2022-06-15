@@ -16,7 +16,12 @@
 </p>
 
 <p align="center">
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kyu05017&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimJiUng&show_icons=true&theme=tokyonight)
+
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyu05017&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 

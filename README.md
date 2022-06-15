@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=개발자 김지웅 &fontSize=65" />
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=개발자 김지웅 &fontSize=65" />
+
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimJiUng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </p>
 

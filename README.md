@@ -59,8 +59,8 @@
 <p align="center">
   
   <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">jsp : 부루마블</p></a><br>
-<a align="center" href="https://github.com/KimJiUng/JSP_BlueMarble-master-master">jsp : 부루마블</a><br>
-<a align="center" href="https://github.com/KimJiUng/JSP_BlueMarble-master-master">jsp : 부루마블</a><br>
+  <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">jsp : 부루마블</p></a><br>
+  <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">jsp : 부루마블</p></a><br>
   
 
 </p>

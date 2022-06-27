@@ -59,7 +59,7 @@
 <p align="center">
   
   <a href="https://github.com/KimJiUng/consoleproject"><p align="center">java : 회원제 커뮤니티 </p></a><br>
-  <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">jsp : 부루마블</p></a><br>
+  <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">java fx : 비행기 예매 시스템</p></a><br>
   <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">jsp : 부루마블</p></a><br>
   
 

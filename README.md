@@ -58,7 +58,7 @@
 <h2 align="center">  :newspaper: PROJECT :newspaper:</h2>
 <p align="center">
   
-  <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">jsp : 부루마블</p></a><br>
+  <a href="https://github.com/KimJiUng/consoleproject"><p align="center">java : 회원제 커뮤니티 </p></a><br>
   <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">jsp : 부루마블</p></a><br>
   <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">jsp : 부루마블</p></a><br>
   

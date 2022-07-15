@@ -63,6 +63,7 @@
   <a href="https://github.com/KimJiUng/consoleproject"><p align="center">java : 회원제 커뮤니티 </p></a><br>
   <a href="https://github.com/KimJiUng/JAVA-FX"><p align="center">java fx : 비행기 예매 시스템</p></a><br>
   <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">jsp : 부루마블</p></a><br>
+  <a href="https://github.com/KimJiUng/JSP_BlueMarble-master-master"><p align="center">spring : 원숭이두창 통계 사이트</p></a><br>
   
 
 </p>
